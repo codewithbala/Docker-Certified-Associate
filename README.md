@@ -1,5 +1,5 @@
 # Docker-Certified-Associate
-## Docker Certification Training (Simplilearn Course)
+## Docker Certification Training 
 
 **Course:** DOCKER CERTIFICATION TRAINING\
 **Duration:** 24 hours
